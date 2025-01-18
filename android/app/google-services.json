@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480672615846",
+    "project_id": "agenthi-a43ba",
+    "storage_bucket": "agenthi-a43ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480672615846:android:ae4b256f4e2f90cbda1367",
+        "android_client_info": {
+          "package_name": "com.agenthi.ai.productivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480672615846-5b2659st95q1pv4208spoq8fgpicvo18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agenthi.ai.productivity",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "480672615846-1ehvugtjos2he4umu4ruj8ba7ct8p8dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEBAflck2FeObockczPgRxWMg0Ftzpo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480672615846-1ehvugtjos2he4umu4ruj8ba7ct8p8dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
